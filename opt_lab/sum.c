@@ -4,7 +4,7 @@
 #include<limits.h>
 
 //#define MAX_NUM 10
-#define MAX_NUM 1000000000
+#define MAX_NUM 10000
 
 typedef double data_t;
 
